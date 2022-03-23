@@ -46,7 +46,7 @@
 
 ![enter image description here](https://raw.githubusercontent.com/Shashank03200/Agrilinks-Backend-Task/master/screenshots/RESULT%20GET%201.png)
 
-6. Creating a new report based on new combination of userID and commodityID using POST method.
+6. Creating a new report based on new combination of marketID and commodityID using POST method.
 
 ![enter image description here](https://raw.githubusercontent.com/Shashank03200/Agrilinks-Backend-Task/master/screenshots/Result%20POST%204.png)
 
