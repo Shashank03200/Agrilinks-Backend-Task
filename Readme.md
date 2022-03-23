@@ -1,4 +1,4 @@
-## Project Initialization Steps:
+## Project Configuration Steps:
 
   
 
@@ -8,7 +8,7 @@
 
   3. Check the .env file in the root directory for more details.
 
-## Project Launch Steps: 
+## Project Initialization Steps: 
 
 1. Launch terminal and start the node server using the command: 
 		
